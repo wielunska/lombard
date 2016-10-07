@@ -2,7 +2,7 @@
 .appVersion = "895";
 DisplayStrings = (
 "aajq d c",
-obnffaba,
+oobnffaba,
 U/U.init/U.fina/U.isol,
 "an ia@gmail ",
 "&231",
@@ -78,7 +78,10 @@ s/s.init/s.fina/s.isol,
 g/g.init/g.fina/g.isol,
 "/igora j/j.init/j.fina/j.isol",
 /j.ss01,
-"a/a.init/a.fina/a.isol/aogonek/aogonek.init/aogonek.fina/aogonek.isol b/b.init/b.fina/b.isol c/c.init/c.fina/c.isol/cacute/cacute.init/cacute.fina/cacute.isol d/d.init/d.fina/d.isol e/e.init/e.fina/e.isol/eogonek/eogonek.init/eogonek.fina/eogonek.isol f/f.init/f.fina/f.isol g/g.init/g.fina/g.isol h/h.init/h.fina/h.isol i/i.init/i.fina/i.isol j/j.init/j.fina/j.isol k/k.init/k.fina/k.isol l/l.init/l.fina/l.isol/lslash/lslash.init/lslash.fina/lslash.isol m/m.init/m.fina/m.isol n/n.init/n.fina/n.isol/nacute/nacute.init/nacute.fina/nacute.isol o/o.init/o.fina/o.isol \U00F3/oacute.init/oacute.fina/oacute.isol p/p.init/p.fina/p.isol q/q.init/q.fina/q.isol r/r.init/r.fina/r.isol s/s.init/s.fina/s.isol/sacute/sacute.init/sacute.fina/sacute.isol t/t.init/t.fina/t.isol u/u.init/u.fina/u.isol v/v.init/v.fina/v.isol w/w.init/w.fina/w.isol x/x.init/x.fina/x.isol y/y.init/y.fina/y.isol z/z.init/z.fina/z.isol/zacute/zdotaccent"
+"a/a.init/a.fina/a.isol/aogonek/aogonek.init/aogonek.fina/aogonek.isol b/b.init/b.fina/b.isol c/c.init/c.fina/c.isol/cacute/cacute.init/cacute.fina/cacute.isol d/d.init/d.fina/d.isol e/e.init/e.fina/e.isol/eogonek/eogonek.init/eogonek.fina/eogonek.isol f/f.init/f.fina/f.isol g/g.init/g.fina/g.isol h/h.init/h.fina/h.isol i/i.init/i.fina/i.isol j/j.init/j.fina/j.isol k/k.init/k.fina/k.isol l/l.init/l.fina/l.isol/lslash/lslash.init/lslash.fina/lslash.isol m/m.init/m.fina/m.isol n/n.init/n.fina/n.isol/nacute/nacute.init/nacute.fina/nacute.isol o/o.init/o.fina/o.isol \U00F3/oacute.init/oacute.fina/oacute.isol p/p.init/p.fina/p.isol q/q.init/q.fina/q.isol r/r.init/r.fina/r.isol s/s.init/s.fina/s.isol/sacute/sacute.init/sacute.fina/sacute.isol t/t.init/t.fina/t.isol u/u.init/u.fina/u.isol v/v.init/v.fina/v.isol w/w.init/w.fina/w.isol x/x.init/x.fina/x.isol y/y.init/y.fina/y.isol z/z.init/z.fina/z.isol/zacute/zdotaccent",
+S/S.init/S.fina/S.isol,
+nnnnone,
+O
 );
 classes = (
 {
@@ -8156,7 +8159,7 @@ width = 667;
 },
 {
 glyphname = o;
-lastChange = "2016-10-07 16:59:36 +0000";
+lastChange = "2016-10-07 18:34:57 +0000";
 layers = (
 {
 associatedMasterId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -8326,9 +8329,9 @@ nodes = (
 "544 111 OFFCURVE",
 "544 285 CURVE SMOOTH",
 "544 417 OFFCURVE",
-"454 505 OFFCURVE",
-"314 505 CURVE SMOOTH",
-"149 505 OFFCURVE",
+"455 505 OFFCURVE",
+"313 505 CURVE SMOOTH",
+"150 505 OFFCURVE",
 "20 389 OFFCURVE",
 "20 215 CURVE SMOOTH",
 "20 83 OFFCURVE",
@@ -8345,8 +8348,8 @@ nodes = (
 "236 468 LINE",
 "236 468 OFFCURVE",
 "267 480 OFFCURVE",
-"313 480 CURVE SMOOTH",
-"363 480 OFFCURVE",
+"315 480 CURVE SMOOTH",
+"367 480 OFFCURVE",
 "398 466 OFFCURVE",
 "398 466 CURVE",
 "321 30 LINE",
@@ -19611,7 +19614,7 @@ width = 955;
 },
 {
 glyphname = O;
-lastChange = "2016-10-07 15:42:55 +0000";
+lastChange = "2016-10-07 18:36:06 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -20123,7 +20126,7 @@ width = 941;
 },
 {
 glyphname = S;
-lastChange = "2016-08-29 09:38:07 +0000";
+lastChange = "2016-10-07 17:20:20 +0000";
 layers = (
 {
 layerId = "76F08205-C3C5-4E97-8429-CDDB50136507";
@@ -20131,63 +20134,55 @@ paths = (
 {
 closed = 1;
 nodes = (
-"575 574 OFFCURVE",
-"608 607 OFFCURVE",
-"608 648 CURVE SMOOTH",
-"608 688 OFFCURVE",
-"575 721 OFFCURVE",
-"534 721 CURVE SMOOTH",
-"493 721 OFFCURVE",
-"460 688 OFFCURVE",
-"460 648 CURVE SMOOTH",
-"460 607 OFFCURVE",
-"493 574 OFFCURVE",
-"534 574 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
 "22 70 OFFCURVE",
-"149 -3 OFFCURVE",
-"287 -3 CURVE SMOOTH",
-"496 -3 OFFCURVE",
-"574 117 OFFCURVE",
-"574 209 CURVE SMOOTH",
+"143 -3 OFFCURVE",
+"299 -3 CURVE SMOOTH",
+"490 -3 OFFCURVE",
+"574 107 OFFCURVE",
+"574 207 CURVE SMOOTH",
 "574 273 OFFCURVE",
 "540 326 OFFCURVE",
 "510 356 CURVE SMOOTH",
 "185 684 LINE",
 "185 684 OFFCURVE",
-"256 768 OFFCURVE",
-"389 768 CURVE SMOOTH",
-"509 768 OFFCURVE",
-"577 701 OFFCURVE",
-"577 651 CURVE",
-"608 648 LINE",
+"252 768 OFFCURVE",
+"385 768 CURVE SMOOTH",
+"451 768 OFFCURVE",
+"505.586 747.605 OFFCURVE",
+"537.447 720.921 CURVE",
+"534 721 LINE SMOOTH",
+"493 721 OFFCURVE",
+"460 688 OFFCURVE",
+"460 647 CURVE SMOOTH",
+"460 606 OFFCURVE",
+"493 574 OFFCURVE",
+"534 574 CURVE SMOOTH",
+"575 574 OFFCURVE",
+"608 607 OFFCURVE",
+"608 649 CURVE SMOOTH",
 "608 714 OFFCURVE",
-"529 795 OFFCURVE",
-"389 795 CURVE SMOOTH",
-"202 795 OFFCURVE",
-"119 671 OFFCURVE",
-"119 579 CURVE SMOOTH",
-"119 515 OFFCURVE",
+"531 795 OFFCURVE",
+"385 795 CURVE SMOOTH",
+"229 795 OFFCURVE",
+"119 704 OFFCURVE",
+"119 578 CURVE SMOOTH",
+"119 513 OFFCURVE",
 "148 469 OFFCURVE",
 "176 441 CURVE SMOOTH",
 "509 108 LINE",
 "509 108 OFFCURVE",
 "447 24 OFFCURVE",
-"288 24 CURVE SMOOTH",
+"297 24 CURVE SMOOTH",
 "152 24 OFFCURVE",
 "52 103 OFFCURVE",
-"52 206 CURVE SMOOTH",
+"52 204 CURVE SMOOTH",
 "52 245 OFFCURVE",
 "68 268 OFFCURVE",
 "68 268 CURVE",
 "69 222 OFFCURVE",
-"108 191 OFFCURVE",
-"150 191 CURVE SMOOTH",
-"192 191 OFFCURVE",
+"106 191 OFFCURVE",
+"148 191 CURVE SMOOTH",
+"193 191 OFFCURVE",
 "228 226 OFFCURVE",
 "228 269 CURVE SMOOTH",
 "228 312 OFFCURVE",
@@ -20195,7 +20190,7 @@ nodes = (
 "142 347 CURVE SMOOTH",
 "82 347 OFFCURVE",
 "22 296 OFFCURVE",
-"22 206 CURVE SMOOTH"
+"22 203 CURVE SMOOTH"
 );
 }
 );
